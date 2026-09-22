@@ -1,7 +1,10 @@
 header {
-    color: teal;
+    color: teal;            /* color changes the text color */
 }
 
 footer {
-    background-color: teal;
+    background-color: teal; /* background-color changes the background color of the element | could also write as #003366 or rgb(0, 128, 128) */
+    border: solid 5px navy; /* border is made up of border-style, border-width, and border-color */
+    padding: 10px;            /* padding is the space between the content and the border */
+    margin: 50px;             /* margin is the space between the border and the next element */
 }
