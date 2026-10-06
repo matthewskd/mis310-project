@@ -1,6 +1,8 @@
 nav ul {
     display: flex;
     list-style: none;
+    padding: 0;
+    justify-content: space-between;
 }
 
 nav a {
@@ -8,8 +10,10 @@ nav a {
     height: 50px;
     width: 150px;
     text-align: center;
+    line-height: 50px;
 }
 
 nav a:hover {
     background-color: teal;
+    color: yellow;
 }
