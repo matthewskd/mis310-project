@@ -17,3 +17,9 @@ nav a:hover {
     background-color: teal;
     color: yellow;
 }
+
+@media (max-width: 600px) {
+    nav ul {
+        flex-direction: column;
+    }
+}
