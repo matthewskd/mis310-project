@@ -1,0 +1,1 @@
+console.log("Module 7 scripts loaded successfully.");
